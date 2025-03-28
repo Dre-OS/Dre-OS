@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dre</h1>
-<h3 align="center">A passionate frontend developer from PH</h3>
+<h3 align="center">A passionate fullstack developer from PH</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dre-os&show_icons=true&locale=en&layout=compact" alt="dre-os" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dre-os&" alt="dre-os" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dre-OS&" alt="dre-os" /></p>
