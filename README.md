@@ -7,7 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dre-os/dre-os/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dre-os" alt="dre-os" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dre-OS" alt="Dre-OS" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
