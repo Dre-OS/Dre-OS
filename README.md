@@ -7,7 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dre-os/dre-os/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dre-OS)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dre-os)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
