@@ -91,6 +91,6 @@
   </a>
 </div>
 
-![Dre-OS's Stats](https://github-readme-stats.vercel.app/api?username=Dre-OS&theme=default&show_icons=true&hide_border=true&count_private=true)
-![Dre-OS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dre-OS&theme=default&hide_border=true)
-![Dre-OS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dre-OS&theme=default&show_icons=true&hide_border=true&layout=compact)
+![Dre-OS's Stats](https://github-readme-stats.vercel.app/api?username=Dre-OS&theme=mirko&show_icons=true&hide_border=true&count_private=true)
+![Dre-OS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dre-OS&theme=mirko&hide_border=true)
+![Dre-OS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dre-OS&theme=mirko&show_icons=true&hide_border=true&layout=compact)
